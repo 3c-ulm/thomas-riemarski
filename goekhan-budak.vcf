@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Gökhan Budak
+N:Budak;Gökhan;;;
+ORG:RI.BU GmbH;Car Competence Center
+TITLE:Geschäftsführer
+TEL;TYPE=WORK,VOICE:+49 76 563 48 01
+EMAIL;TYPE=WORK:g.budak@3c-ulm.de
+ADR;TYPE=WORK:;;Max-Eyth-Straße 41/3;Neu-Ulm;;89231;Deutschland
+URL:https://www.3c-ulm.de
+END:VCARD
